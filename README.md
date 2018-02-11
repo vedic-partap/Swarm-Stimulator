@@ -16,8 +16,8 @@ Building:
    `make test`
 3) Run the Simulator
    `./Simulator test`
-   (use the flag: --dest-screen to manually give the destination points)
-   (use the flag: circle to run the circle formation algorithm)
+   (use the flag: `--dest-screen` to manually give the destination points)
+   (use the flag: `circle` to run the circle formation algorithm)
 
 To spawn the bots select the points by left-clicking on them.
 To run the simulation right-click on the arena.
